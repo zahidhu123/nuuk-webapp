@@ -13,6 +13,9 @@
 .b-container{
     padding: 30px;
 }
+.container{
+    padding: 70px 40px 40px 40px;
+}
 .header-wrapper {
     position: relative;
     width: 100%;
@@ -152,8 +155,8 @@
     margin-right: -70px;
     position: absolute;
     display: flex;
-    width: 915px;
-    padding: 15px 50px 5px 50px;
+    width: 965px;
+    padding: 15px 50px 15px 50px;
     background-color: #e47312;
     background-image: linear-gradient(186deg, #e47312, #ff6361);
     bottom: -70px;
@@ -190,4 +193,9 @@
     margin-bottom: 5px;
     color: hsla(0, 0%, 100%, 0.7);
     line-height: 25px;
+}
+
+
+.service-section{
+    padding: 50px 70px 50px 50px;
 }
