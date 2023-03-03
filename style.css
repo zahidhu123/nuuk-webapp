@@ -10,6 +10,12 @@
 .d-f{
     display: flex;
 }
+.justify-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
 .b-container{
     padding: 30px;
 }
@@ -198,4 +204,54 @@
 
 .service-section{
     padding: 50px 70px 50px 50px;
+}
+
+.specialization-wrapper {
+    padding: 0px 20px;
+}
+
+
+.specialization-title {
+    position: relative;
+    z-index: 2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 42px;
+    line-height: 50px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+
+.service-all {
+    color: #919198;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.view-link{
+    list-style: none;
+}
+
+.card-wrapper{
+    display: flex;
+}
+.card{
+    width: 25%;
+}
+
+.card-img-wrap{
+    width: 60px;
+    margin-bottom: 25px;
+}
+
+.m-b-6{
+    margin-bottom: 60px;
+}
+.mb-3{
+    margin-bottom: 30px;
 }
