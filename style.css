@@ -321,9 +321,10 @@
     padding: 0px 10px;
 }
 
-.about-wrapper{
+.about-wrapper {
     width: 50%;
     padding-left: 100px;
+    padding-right: 28px;
 }
 
 
@@ -339,8 +340,6 @@
 
 .about-subtitle {
     position: relative;
-    margin-top: 0px;
-    margin-bottom: 0px;
     font-size: 42px;
     line-height: 50px;
     letter-spacing: 1px;
@@ -355,11 +354,24 @@
 }
 
 
-.about-para{
-    margin-bottom: 10px;
+.about-para {
+    margin-bottom: 25px;
     font-family: Dosis, sans-serif;
     color: #919197;
     font-size: 17px;
     line-height: 25px;
+}
+
+.team-meet-btn {
+    color: #919198;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.team-meet-btn-wrapper{
+    padding-top: 10px;
 }
 
