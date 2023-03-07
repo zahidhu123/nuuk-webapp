@@ -9,6 +9,14 @@
     width: 100%;
 }
 
+.mt-10 {
+    margin-top: 100px;
+}
+
+.mxs-10 {
+    margin: 100px 10px 0px;
+}
+
 .d-f {
     display: flex;
 }
@@ -349,7 +357,7 @@
 }
 
 
-.about-para-wrapper{
+.about-para-wrapper {
     padding-top: 40px;
 }
 
@@ -371,7 +379,27 @@
     font-weight: 600;
 }
 
-.team-meet-btn-wrapper{
+.team-meet-btn-wrapper {
     padding-top: 10px;
 }
 
+.experience-wrapper {
+    width: 25%;
+    padding-right: 12%;
+}
+
+.total-experience {
+    margin-bottom: 10px;
+    color: #e47312;
+    font-size: 60px;
+    line-height: 70px;
+    font-weight: 500;
+}
+
+.experience{
+    margin-bottom: 10px;
+    font-family: Dosis, sans-serif;
+    color: #919197;
+    font-size: 17px;
+    line-height: 25px;
+}
