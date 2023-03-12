@@ -424,3 +424,8 @@
 .project-title-wrapper{
     margin: 0px 60px;
 }
+
+.project-img-wrapper{
+    width: 100%;
+    padding: 0px 10px 5px 5px;
+}
