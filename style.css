@@ -477,3 +477,30 @@
 .project-circle :hover{
     background-color: red;
 }
+
+.banner-img{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    background-color: #e47312;
+    background-image: linear-gradient(72deg, #e47312, rgba(255, 99, 97, 0.78)), url(./assets/banner-2.jpg);
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll, fixed;
+}
+
+.banner-title-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.something-title{
+    font-size: 42px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1;
+    line-height: 50px;
+    margin: 0px;
+}
+
