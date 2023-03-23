@@ -489,8 +489,8 @@
     background-attachment: scroll, fixed;
 }
 
-.banner-title-wrapper{
-    display: flex;
+.banner-title-wrapper {
+    display: inline;
     justify-content: center;
     align-items: center;
     text-align: center;
