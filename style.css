@@ -504,3 +504,15 @@
     margin: 0px;
 }
 
+.together-paragraph {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 300;
+    margin-bottom: 5px;
+    color: hsla(0, 0%, 100%, 0.7);
+}
+.quote-btn{
+    margin-top: 25px;
+}
+
