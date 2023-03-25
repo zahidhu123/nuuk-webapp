@@ -516,3 +516,14 @@
     margin-top: 25px;
 }
 
+.quote-btn1 {
+    color: #919198;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #ffffff;
+    text-decoration: none;
+}
