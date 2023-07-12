@@ -12,7 +12,8 @@
 .h-100 {
     height: 100%;
 }
-.mb-5{
+
+.mb-5 {
     margin-bottom: 50;
 }
 
@@ -546,10 +547,31 @@
 }
 
 
-.profile-img {
+/* .profile-img {
     min-height: 300px;
     background-image: url(./assets/team-1.jpg);
     background-position: 50% 0%;
     background-size: cover;
     background-repeat: no-repeat;
+} */
+
+.professional-bg{
+    background-color: #f7f8fc;
+}
+
+.card-profile-wrap {
+    min-height: 300px;
+}
+
+.profile-d-wrap {
+    padding: 20px;
+    background: white;
+}
+
+.card-p-subtitle {
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
 }
