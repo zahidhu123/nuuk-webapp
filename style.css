@@ -574,4 +574,14 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-bottom: 6px;
+    font-weight: 600;
+    color: #121213;
+}
+
+.card-p-article {
+    margin-bottom: 7px;
+    font-family: Dosis, sans-serif;
+    color: #bdbdc9;
+    font-size: 16px;
+    line-height: 25px;
 }
